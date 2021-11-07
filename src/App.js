@@ -57,7 +57,7 @@ return(
     linkedIn
   </button>
   <button onClick = {() => { 
-    window.open("https://github.com/EmanuelRivas")
+    window.open("https://github.com/ERivas-786")
   }}>
     GitHub
   </button>
