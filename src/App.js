@@ -31,13 +31,12 @@ return(
     <h1>Projects</h1>
     <ProjectCard
     img = {logo}
-    name ="Emanuel's Wbesite"
+    name ="Emanuel's Website"
     desc =" This is a website that I made using my programming skills and God-given talent" />
     <ProjectCard
     img = {logo}
     name ="Java Project"
     desc =" This is a banking application I made in Java" />
-
       </div>
       </div>
     )
